@@ -1,0 +1,15 @@
+/workspaces/liz/Revision/bin/Debug/net8.0/Revision
+/workspaces/liz/Revision/bin/Debug/net8.0/Revision.deps.json
+/workspaces/liz/Revision/bin/Debug/net8.0/Revision.runtimeconfig.json
+/workspaces/liz/Revision/bin/Debug/net8.0/Revision.dll
+/workspaces/liz/Revision/bin/Debug/net8.0/Revision.pdb
+/workspaces/liz/Revision/obj/Debug/net8.0/Revision.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/liz/Revision/obj/Debug/net8.0/Revision.AssemblyInfoInputs.cache
+/workspaces/liz/Revision/obj/Debug/net8.0/Revision.AssemblyInfo.cs
+/workspaces/liz/Revision/obj/Debug/net8.0/Revision.csproj.CoreCompileInputs.cache
+/workspaces/liz/Revision/obj/Debug/net8.0/Revision.sourcelink.json
+/workspaces/liz/Revision/obj/Debug/net8.0/Revision.dll
+/workspaces/liz/Revision/obj/Debug/net8.0/refint/Revision.dll
+/workspaces/liz/Revision/obj/Debug/net8.0/Revision.pdb
+/workspaces/liz/Revision/obj/Debug/net8.0/Revision.genruntimeconfig.cache
+/workspaces/liz/Revision/obj/Debug/net8.0/ref/Revision.dll
